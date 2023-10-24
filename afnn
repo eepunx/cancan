@@ -1,5 +1,4 @@
 #EXTM3U 
-#EXT-X-TARGETDURATION:5 
-#EXT-X-VERSION:3 
-#EXT-X-MEDIA-SEQUENCE:27702 
+#EXT-X-VERSION:5
+#EXT-X-STREAM-INF:BANDWIDTH=1728000
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch76)/index.m3u8
